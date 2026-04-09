@@ -1,5 +1,7 @@
-namespace AppCurso.Fundamentos;
+using System;
 using System.Globalization; // necessario para usar CultureInfo.InvariantCulture
+
+namespace AppCurso.Fundamentos;
 
 public class TiposDados
 {

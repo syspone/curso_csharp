@@ -1,3 +1,5 @@
+using System;
+
 namespace AppCurso.Fundamentos;
 
 public class PrimeiroPrograma

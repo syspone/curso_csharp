@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmsou\\Documents\\RiderProjects\\Curso\\AppCurso\\AppCurso.csproj": {}
+    "/home/sysone/RiderProjects/AppCurso/src/AppCurso/AppCurso/AppCurso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmsou\\Documents\\RiderProjects\\Curso\\AppCurso\\AppCurso.csproj": {
+    "/home/sysone/RiderProjects/AppCurso/src/AppCurso/AppCurso/AppCurso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmsou\\Documents\\RiderProjects\\Curso\\AppCurso\\AppCurso.csproj",
+        "projectUniqueName": "/home/sysone/RiderProjects/AppCurso/src/AppCurso/AppCurso/AppCurso.csproj",
         "projectName": "AppCurso",
-        "projectPath": "C:\\Users\\cmsou\\Documents\\RiderProjects\\Curso\\AppCurso\\AppCurso.csproj",
-        "packagesPath": "C:\\Users\\cmsou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmsou\\Documents\\RiderProjects\\Curso\\AppCurso\\obj\\",
+        "projectPath": "/home/sysone/RiderProjects/AppCurso/src/AppCurso/AppCurso/AppCurso.csproj",
+        "packagesPath": "/home/sysone/.nuget/packages/",
+        "outputPath": "/home/sysone/RiderProjects/AppCurso/src/AppCurso/AppCurso/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cmsou\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/sysone/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\cmsou\\.dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/sysone/.dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
