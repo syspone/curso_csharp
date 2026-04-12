@@ -16,6 +16,8 @@
     <list default="true" id="0b75b994-4c52-43bd-ac62-6277c7e09748" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.AppCurso/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.AppCurso/.idea/db-forest-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.AppCurso/.idea/db-forest-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AppCurso.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AppCurso.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1775697549694" duration="442000" />
       <workItem from="1775773476759" duration="638000" />
       <workItem from="1775959245541" duration="240000" />
-      <workItem from="1775959495746" duration="1669000" />
+      <workItem from="1775959495746" duration="2116000" />
     </task>
     <servers />
   </component>
