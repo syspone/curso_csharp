@@ -9,8 +9,8 @@ public class TiposInter
         uint b = 42u;
         long c = 42L;
         ulong d = 42UL;
-        int bin = 0b_1010_0110;
-        int hex = 0x_FF_10;
+        int bin = 0b_1010_0110; // 1010 0110 numero binario (166)
+        int hex = 0x_FF_10;     // 255 16 numero hexadecimal (2416)
         
         Console.WriteLine(bin);
         Console.WriteLine(hex);
@@ -22,6 +22,7 @@ public class TiposInter
     
     public static void Executar2()
     {
+        // Conversao explicita (Casting)
         int e = 100;
         long f = e;
 

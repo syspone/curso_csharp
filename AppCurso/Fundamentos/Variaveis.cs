@@ -6,5 +6,7 @@ public class Variaveis
     {
         int idade = 25;
         Console.WriteLine(idade);
+        
+        Console.ReadLine();
     }
 }

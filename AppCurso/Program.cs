@@ -13,6 +13,7 @@ namespace AppCurso {
                 {"****Continuacao Tipos - Fundamentos", TiposDados.Executar2},
                 {"Tipos de Dados Integrais - Fundamentos", TiposInter.Executar},
                 {"Tipos de Dados Integrais2 - Fundamentos", TiposInter.Executar2},
+                {"Tipos de Dados Ponto Fluante - Fundamentos", TiposFlutuantes.Executar},
                 {"Processamento e Casting - Fundamentos", ProcessCasting.Executar},
                 {"ExCasting - Fundamentos", ProcessCasting.ExCasting},
                 {"Entrada de Dados - Fundamentos", InputDate.Executar},

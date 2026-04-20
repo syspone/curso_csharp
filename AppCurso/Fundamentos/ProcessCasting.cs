@@ -53,5 +53,7 @@ public class ProcessCasting
         int valorInt = (int)valorDouble; // Conversão manual (perde as casas decimais)
 
         Console.WriteLine($"Double: {valorDouble}, Int: {valorInt}"); // Saída: 15
+        
+        Console.ReadLine();
     }
 }
